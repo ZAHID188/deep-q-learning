@@ -20,3 +20,5 @@ This is in order to limit the maximum number of elements in the memory.
 
 The training might be unstable for `dqn.py`. This problem is mitigated in `ddqn.py`.
 I'll cover `ddqn` in the next article.
+ 
+i will be adding details information
